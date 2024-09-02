@@ -1,5 +1,7 @@
+# CSST 102 - Lab Activity 1: Overview of Machine Learning Applications
 
 https://github.com/user-attachments/assets/238b3357-1a94-45de-a300-bec68c99ddae
+
 
 
 # Lab Activity 1: Overview of Machine Learning Applications
