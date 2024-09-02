@@ -1,7 +1,6 @@
 # CSST 102 - Lab Activity 1: Overview of Machine Learning Applications
 
-Uploading PINO-CSST102.mp4…
-
+https://github.com/user-attachments/assets/e5ff6d74-a3e4-4e77-bfce-20e46aa8db16
 
 
 # Lab Activity 1: Overview of Machine Learning Applications
