@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/238b3357-1a94-45de-a300-bec68c99ddae
+
+
 # Lab Activity 1: Overview of Machine Learning Applications
 
 ## Objective: Familiarize students with various applications of machine learning in real-world scenarios.
